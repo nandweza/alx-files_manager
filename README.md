@@ -18,7 +18,7 @@ Of course, this kind of service already exists in the real life - it’s a learn
 
 Enjoy!
 
-## Resources+ [
+## Resources
 
 + [Node JS getting started](https://nodejs.org/en/docs/guides/getting-started-guide/)
 + [Process API doc](https://node.readthedocs.io/en/latest/api/process/)
@@ -31,7 +31,7 @@ Enjoy!
 + [Mime-Types](https://www.npmjs.com/package/mime-types)
 + [Redis](https://github.com/redis/node-redis)
 
-## Learning Objectives+ 
+## Learning Objectives
 
 + how to create an API with Express
 + how to authenticate a user
