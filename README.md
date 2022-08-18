@@ -1,6 +1,6 @@
 # 0x04. Files manager
 
-### <mark style="background-color: red">Back-end</mark>   <mark style="background-color: red">JavaScript</mark>   <mark style="background-color: red">ES6</mark>   <mark style="background-color: red">NoSQL</mark>   <mark style="background-color: red">MongoDB</mark>   <mark style="background-color: red">Redis</mark>   <mark style="background-color: red">NodeJS</mark>   <mark style="background-color: red">ExpressJS</mark>   <mark style="background-color: red">Kue</mark>
+### <mark style="background-color: red">Back-end</mark>  / <mark style="background-color: red">JavaScript</mark>  / <mark style="background-color: red">ES6</mark>  / <mark style="background-color: red">NoSQL</mark> /  <mark style="background-color: red">MongoDB</mark>  / <mark style="background-color: red">Redis</mark> /  <mark style="background-color: red">NodeJS</mark> /  <mark style="background-color: red">ExpressJS</mark>  / <mark style="background-color: red">Kue</mark>
 
 This project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.
 
