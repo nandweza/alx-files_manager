@@ -1,6 +1,6 @@
 # 0x04. Files manager
 
-### <mark style="background-color: red">Back-end</mark>   <mark style="background-color: red">JavaScript</mark>   <mark style="background-color: red">ES6</mark>   <mark style="background-color: red">NoSQL</mark>   <mark style="background-color: red">MongoDB</mark>   <mark style="background-color: red">Redis</mark>   <mark style="background-color: red">NodeJS</mark>   <mark style="background-color: red">ExpressJS</mark>   <mark style="background-color: red">Kue</mark>
+### <mark style="background-color: red">Back-end</mark>  / <mark style="background-color: red">JavaScript</mark>  / <mark style="background-color: red">ES6</mark>  / <mark style="background-color: red">NoSQL</mark> /  <mark style="background-color: red">MongoDB</mark>  / <mark style="background-color: red">Redis</mark> /  <mark style="background-color: red">NodeJS</mark> /  <mark style="background-color: red">ExpressJS</mark>  / <mark style="background-color: red">Kue</mark>
 
 This project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.
 
@@ -18,7 +18,7 @@ Of course, this kind of service already exists in the real life - it’s a learn
 
 Enjoy!
 
-## Resources+ [
+## Resources
 
 + [Node JS getting started](https://nodejs.org/en/docs/guides/getting-started-guide/)
 + [Process API doc](https://node.readthedocs.io/en/latest/api/process/)
@@ -31,7 +31,7 @@ Enjoy!
 + [Mime-Types](https://www.npmjs.com/package/mime-types)
 + [Redis](https://github.com/redis/node-redis)
 
-## Learning Objectives+ 
+## Learning Objectives
 
 + how to create an API with Express
 + how to authenticate a user
